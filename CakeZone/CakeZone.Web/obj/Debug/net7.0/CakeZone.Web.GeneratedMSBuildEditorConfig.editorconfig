@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CakeZone.Web
+build_property.RootNamespace = CakeZone.Web
+build_property.ProjectDir = E:\CakeZone\CakeZone.Web\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\CakeZone\CakeZone.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/CakeZone/CakeZone.Web/UI/Cakes/Views/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ2FrZXNcVmlld3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Cakes/Views/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ2FrZXNcVmlld3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Cakes/Views/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ2FrZXNcVmlld3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Cakes/Views/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ2FrZXNcVmlld3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Cakes/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ2FrZXNcVmlld3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Covers/Views/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ292ZXJzXFZpZXdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Covers/Views/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ292ZXJzXFZpZXdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Covers/Views/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ292ZXJzXFZpZXdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Covers/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ292ZXJzXFZpZXdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Fillings/Views/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcRmlsbGluZ3NcVmlld3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Fillings/Views/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcRmlsbGluZ3NcVmlld3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Fillings/Views/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcRmlsbGluZ3NcVmlld3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Fillings/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcRmlsbGluZ3NcVmlld3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Home/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcSG9tZVxWaWV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Orders/Views/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcT3JkZXJzXFZpZXdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CakeZone/CakeZone.Web/UI/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VUlcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ezh7u7xi8z

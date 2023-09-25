@@ -1,0 +1,36 @@
+﻿@using CakeZone.EntityFramework.Entities;
+@model CoverModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "_Layout";
+}
+<h1>Edit</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="CoverId" />
+            <div class="form-group">
+                <label asp-for="CoverName" class="control-label"></label>
+                <input asp-for="CoverName" class="form-control" />
+                <span asp-validation-for="CoverName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CoverDescription" class="control-label"></label>
+                <input asp-for="CoverDescription" class="form-control" />
+                <span asp-validation-for="CoverDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <br />
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,58 @@
+﻿@using CakeZone.EntityFramework.Entities;
+@model IEnumerable<FillingModel>
+
+@{
+    ViewData["Title"] = "Filling";
+    Layout = "_Layout";
+}
+
+<h1>List Of Fillings</h1>
+<style>
+
+    td {
+        padding: 10px 0;
+        width: 100px;
+    }
+
+    tr {
+        text-align: center;
+    }
+</style>
+
+<table class="table">
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FillingId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FillingType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FillingDescription)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="table-primary">
+                <td>
+                    @Html.DisplayFor(modelItem => item.FillingId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FillingType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FillingDescription)
+                </td>
+                <td>
+                    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.FillingId">Edit</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.FillingId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
