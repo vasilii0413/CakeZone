@@ -2971,11 +2971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CakeZone\\CakeZone.Web\\CakeZone.Web.csproj",
+      "projectUniqueName": "C:\\Users\\vasea\\Documents\\GitHub\\CakeZone\\CakeZone\\CakeZone.Web\\CakeZone.Web.csproj",
       "projectName": "CakeZone.Web",
-      "projectPath": "E:\\CakeZone\\CakeZone.Web\\CakeZone.Web.csproj",
+      "projectPath": "C:\\Users\\vasea\\Documents\\GitHub\\CakeZone\\CakeZone\\CakeZone.Web\\CakeZone.Web.csproj",
       "packagesPath": "C:\\Users\\vasea\\.nuget\\packages\\",
-      "outputPath": "E:\\CakeZone\\CakeZone.Web\\obj\\",
+      "outputPath": "C:\\Users\\vasea\\Documents\\GitHub\\CakeZone\\CakeZone\\CakeZone.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2997,8 +2997,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\CakeZone\\CakeZone.EntityFramework\\CakeZone.EntityFramework.csproj": {
-              "projectPath": "E:\\CakeZone\\CakeZone.EntityFramework\\CakeZone.EntityFramework.csproj"
+            "C:\\Users\\vasea\\Documents\\GitHub\\CakeZone\\CakeZone\\CakeZone.EntityFramework\\CakeZone.EntityFramework.csproj": {
+              "projectPath": "C:\\Users\\vasea\\Documents\\GitHub\\CakeZone\\CakeZone\\CakeZone.EntityFramework\\CakeZone.EntityFramework.csproj"
             }
           }
         }

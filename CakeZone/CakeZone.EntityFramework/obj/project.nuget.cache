@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2HhWLrnFZYbm19/uVY+iDTwUMTfwtF/vg3vxSY/B7wcuTKAZVRllrdVkzgsLyq5W3697Gkaf10W0vQXF2tNi5w==",
+  "dgSpecHash": "1V+TYXk4/50DjPfSXoTFTrzujAOskjc5f/cPMGsoqo18tBu2zaehTmbwJi4NvYLr9oB4Yyu1bptfEaFziV/Efw==",
   "success": true,
-  "projectFilePath": "E:\\CakeZone\\CakeZone.EntityFramework\\CakeZone.EntityFramework.csproj",
+  "projectFilePath": "C:\\Users\\vasea\\Documents\\GitHub\\CakeZone\\CakeZone\\CakeZone.EntityFramework\\CakeZone.EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vasea\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\vasea\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
